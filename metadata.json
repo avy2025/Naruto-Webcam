@@ -1,0 +1,5 @@
+{
+  "name": "Naruto WebCam",
+  "description": "Real-time webcam studio that detects hand signs to trigger Rasengan, Chidori, and Shadow Clone visual effects with photo capture and video recording.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
